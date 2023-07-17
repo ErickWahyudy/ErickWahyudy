@@ -2,10 +2,10 @@
 
 ### 👩‍💻 &nbsp; About Me
 
-🔭 Perkenalkan nama saya **Fannisa Tiara Salsabila**.  
+🔭 Perkenalkan nama saya **Erik Wahyudi**.  
 🌱 Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Ponorogo](https://umpo.ac.id/).  
 ⚡ Program studi yang saya ampu adalah [Teknik Informatika](http://ti.umpo.ac.id/).  
-💬 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/fannisa-tiara-salsabila-901048231/)ku ya.  
+💬 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/erik-wahyudi-7a516b1b8/)ku ya.  
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -20,13 +20,13 @@
 
 ### 📈 &nbsp; My Stat
 <p>
-<a href="https://github.com/fannisatiara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fannisatiara&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fannisatiara&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/ErickWahyudy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickWahyudy&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErickWahyudy&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/fannisa-tiara-salsabila-901048231/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:tiara1610salsabila@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/erik-wahyudi-7a516b1b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:erickwahyudy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
