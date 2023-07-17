@@ -7,7 +7,7 @@
 ⚡ Program studi yang saya ampu adalah [Teknik Informatika](http://ti.umpo.ac.id/).  
 💬 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/erik-wahyudi-7a516b1b8/)ku ya.  
 
-### 🛠 &nbsp; Tech Stack
+### 💻 &nbsp; Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
