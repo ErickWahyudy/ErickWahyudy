@@ -34,5 +34,5 @@
 
 ##### copyright
 ``` 
-© @ErickWahyudy | @fannisatiara
+© @fannisatiara
 ```
