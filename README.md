@@ -3,7 +3,7 @@
 ### 👩‍💻 &nbsp; About Me
 
 🔭 Perkenalkan nama saya **Erik Wahyudi**.  
-🌱 Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Ponorogo](https://umpo.ac.id/).  
+🌱 Saya seorang **Alumni Mahasiswa** di [Universitas Muhammadiyah Ponorogo](https://umpo.ac.id/).  
 ⚡ Program studi yang saya ampu adalah [Teknik Informatika](http://ti.umpo.ac.id/).  
 💬 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/erik-wahyudi-7a516b1b8/)ku ya.  
 📫 Dan jangan lupa kunjungi juga [website](https://kassandra.my.id/)ku.
