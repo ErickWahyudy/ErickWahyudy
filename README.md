@@ -24,7 +24,7 @@
 <a href="https://github.com/ErickWahyudy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickWahyudy&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErickWahyudy&theme=radical&layout=compact&exclude_lang=java+r" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErickWahyudy&theme=radical&border=141E61)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickWahyudy&theme=radical&border=141E61" />
 </a>
 </p>
 
