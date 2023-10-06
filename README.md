@@ -24,6 +24,7 @@
 <a href="https://github.com/ErickWahyudy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickWahyudy&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErickWahyudy&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src"https://github-readme-streak-stats.herokuapp.com?user=ErickWahyudy&theme=radical&border=141E61" />
 </a>
 </p>
 
@@ -32,8 +33,5 @@
 <a href="https://www.linkedin.com/in/erik-wahyudi-7a516b1b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:erickwahyudy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickWahyudy&show_icons=true&theme=radical&border_color=141E61)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErickWahyudy&theme=radical&border=141E61)](https://git.io/streak-stats)
 
 ##### copyright © @fannisatiara
